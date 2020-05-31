@@ -1,0 +1,31 @@
+.main-img-container {
+  max-width: 50%;
+  height: auto;
+  padding: 10px;
+}
+.carosel-container {
+  background-color: darkgray;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: grey;
+}
+
+#title-text {
+  color: beige;
+}
+
+.button {
+  padding: 5px;
+}
+
+.input {
+  padding: 5px;
+}
